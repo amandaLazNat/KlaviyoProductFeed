@@ -1,0 +1,865 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S24">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" />
+  </Style>
+  <Style ss:ID="S25">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S26">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0000FF" ss:FontName="Arial" ss:Size="10" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S27">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S28">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" />
+  </Style>
+  <Style ss:ID="S29">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S30">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1155CC" ss:FontName="Arial" ss:Size="10" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S31">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1155CC" ss:FontName="Calibri" ss:Size="12" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S32">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S33">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="12" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S34">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S35">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S36">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1155CC" ss:FontName="Arial" ss:Size="10" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S37">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:FontName="Arial" ss:Size="10" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="75.75" ss:ExpandedRowCount="72" ss:ExpandedColumnCount="6">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="239.25" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="79.5" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="98.25" />
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="75.75" />
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Unique ID</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Title</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">URL</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Image URL</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">Description</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Category</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMCC</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Cedar Citrus CBD Balm</Data>
+    </Cell>
+    <Cell ss:StyleID="S26" ss:HRef="https://www.lazarusnaturals.com/products/topicals/cedar-citrus-cbd-balm-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/cedar-citrus-cbd-balm-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmcc2_balm_2oz_cedarcitrus.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmcc2_balm_2oz_cedarcitrus.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our Cedar Citrus CBD Balm has a blend of light fruit aromas and deep woody scents. All of our full spectrum CBD balms are made from a high-quality mixture of ingredients, including mango butter and beeswax, that is specifically tailored for topical use. We then infuse our balms with CBD hemp extract and all natural terpenes for scent. We carefully formulate our balms in our facility through a vertically integrated process that delivers high-quality products.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Bundle</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMLV</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Lavender CBD Balm</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/lavender-cbd-balm-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/lavender-cbd-balm-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmlv2_balm_2oz_lavendar.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmlv2_balm_2oz_lavendar.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our Lavender CBD Balm has a refreshing floral aroma that is ideal for relaxation. All of our full spectrum CBD balms are made from a high-quality mixture of ingredients, including mango butter and beeswax, that is specifically tailored for topical use. We then infuse our balms with CBD hemp extract and all natural terpenes for scent. We carefully formulate our balms in our facility through a vertically integrated process that delivers high-quality products.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMRS</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Portland Rose CBD Balm</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/portland-rose-cbd-balm-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/portland-rose-cbd-balm-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmrs2_balm_2oz_portlandrose.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmrs2_balm_2oz_portlandrose.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">When the roses are blooming and the sun is shining, Portlanders know it’s time to get outside to take advantage of the weather because the long, rainy winter is over. Inspired by our hometown of Portland, Oregon, our Portland Rose Balm was formulated with high-quality organic ingredients and rose oil for a wonderful aroma of fresh roses paired with the benefits of CBD to take a piece of the Rose City with you wherever you go.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMSM</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Soothing Mint CBD Balm</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/soothing-mint-cbd-balm-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/soothing-mint-cbd-balm-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S31" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmsm2_balm_1200mg_mint.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmsm2_balm_1200mg_mint.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our Soothing Mint Balm has a clean and calming peppermint fragrance but still offers the same CBD benefits as our other balms. All of our full spectrum CBD balms are made from a high-quality mixture of ingredients, including mango butter and beeswax, that is specifically tailored for topical use. We then infuse our balms with CBD hemp extract and naturally inspired scents. We carefully formulate our balms in our facility through a vertically integrated process that delivers high-quality products.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMSPK</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Calm Balm Bundle</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/calm-balm-bundle-full%20spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/calm-balm-bundle-full%20spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmspk_balm_bundle.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmspk_balm_bundle.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">If you find it difficult to choose between our Lavender, Portland Rose, Unscented, Soothing Mint, and Cedar Citrus balm scents, keep calm - this bundle is for you. Featuring every single balm in the Lazarus lineup, this is the perfect way to give all of our balms a try.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BLMUN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Unscented CBD Balm</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/unscented-cbd-balm-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/unscented-cbd-balm-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmun2_balm_2oz_unscented.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/l/blmun2_balm_2oz_unscented.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">You asked, we listened. For folks who may be sensitive to scented balms or who want all the benefits of our Full Spectrum CBD Balms without the scent, we have the solution. Our brand new Unscented Balm was minimally crafted for maximum impact and limited fragrance.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">BOTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Blood Orange High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/blood-orange-cbd-isolate-tincture-thc-free-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/blood-orange-cbd-isolate-tincture-thc-free-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/o/botn60_tincture_60ml_bloodorange.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/b/o/botn60_tincture_60ml_bloodorange.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Infused with blood orange extract and our high-quality CBD isolate, our Blood Orange High Potency Tincture is an effective CBD oil with a high concentration of CBD and a pleasant citrus taste. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">COCO</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">CBD Coconut Oil</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/cbd-coconut-oil-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/cbd-coconut-oil-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S32" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/c/o/coco4_coconut_oil_4oz.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/c/o/coco4_coconut_oil_4oz.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">When you’re looking to add CBD to a delicious recipe, our Coconut CBD Oil is a full spectrum CBD oil that is ready to use right out of the jar.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">DNTSPK</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Day and Night Sample Pack</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/day-and-night-sample-pack"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/day-and-night-sample-pack</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/d/n/dntspk_day_and_night_sample_pack.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/d/n/dntspk_day_and_night_sample_pack.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Start your day off right with our Energy Blend CBD capsules, boosted with L-Theanine and B12 to keep you going. When it’s time to wind down, reach for our Relaxation Blend CBD capsules. Take the CBD Lavender Balm with you on-the-go for tranquility directly where you need it.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Bundle</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">ENY25</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Energy Blend 25mg CBD Capsules</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/capsules/energy-blend-cbd-capsules-thc-free-25mg"><Data ss:Type="String">https://www.lazarusnaturals.com/products/capsules/energy-blend-cbd-capsules-thc-free-25mg</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/e/n/eny25.40_capsules_40ct_1000mg_energy.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/e/n/eny25.40_capsules_40ct_1000mg_energy.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our Energy Formula 25mg CBD Capsules are crafted with high-quality ingredients that are designed to give you a boost when you need it most. Our Energy Formula capsules are great for those who enjoy our 25mg CBD Capsule, but also want an additional benefit of caffeine not found in our other capsules. We carefully formulate these capsules in our facility through a vertically integrated process that delivers high-quality products.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Capsules &amp; Softgels</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">FLTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Flavorless High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/flavorless-cbd-tincture-thc-free-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/flavorless-cbd-tincture-thc-free-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/f/l/fltn60_tincture_60ml_flavorless.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/f/l/fltn60_tincture_60ml_flavorless.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Made with high-quality CBD isolate, our Flavorless High Potency tincture has a plain taste with all the benefits of our other High Potency tinctures. We carefully formulate our CBD tinctures in our facility through a vertically integrated process that delivers high-quality products. Using hemp grown on our own Lazarus Farms, we render CBD-rich extract from the plant using an ethanol-based process. Then we refine the extract via fractional distillation and crystallization into CBD isolate.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">FOPETTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Wild Salmon Calming Pet CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/wild-salmon-flavored-calming-pet-cbd-tincture-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/wild-salmon-flavored-calming-pet-cbd-tincture-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/f/o/fopettn60_pet_tincture_60ml_salmon.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/f/o/fopettn60_pet_tincture_60ml_salmon.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">In addition to enjoying the benefits of the same full spectrum CBD you already know and trust, now you can give your pet a tasty fish oil formulation loaded with Omega-3's. Wild Salmon Oil supports the immune system, the heart and a healthy skin and coat. The amount of CBD is lower than our high potency tinctures to better accommodate the specific needs of your pet. We carefully formulate our CBD Pet Tincture in our facility through a vertically integrated process that delivers high-quality products. CBD is a naturally occurring molecule that works in the endocannabinoid system of an animal to help support normal health, among other benefits.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">HPTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Classic High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/classic-cbd-tincture-full-spectrum-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/classic-cbd-tincture-full-spectrum-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn60_tincture_60ml_classic.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn60_tincture_60ml_classic.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our High Potency CBD tinctures are a great option for anyone who wants a full spectrum CBD oil and higher concentrations of CBD. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">HPTN.CM</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Chocolate Mint High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/chocolate-mint-cbd-tincture-full-spectrum-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/chocolate-mint-cbd-tincture-full-spectrum-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn.cm60_tincture_60ml_chocolatemint.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn.cm60_tincture_60ml_chocolatemint.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our Chocolate Mint High Potency Tincture combines naturally derived chocolate and mint extracts with our high-quality hemp extract, providing all the benefits of a full spectrum CBD oil with a refreshing taste. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">HPTN.FVM</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">French Vanilla Mocha High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/french-vanilla-mocha-cbd-tincture-full-spectrum-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/french-vanilla-mocha-cbd-tincture-full-spectrum-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn.fvm60_tincture_60ml_frenchvanillamocha.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/h/p/hptn.fvm60_tincture_60ml_frenchvanillamocha.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our French Vanilla Mocha High Potency Tincture combines naturally derived vanilla and coffee extracts with our high-quality hemp extract, providing all the benefits of a full spectrum CBD oil with a smooth taste. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">ISO.CBG</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Bulk CBG Isolate</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/concentrates-rso/bulk-cbg-isolate-thc-free"><Data ss:Type="String">https://www.lazarusnaturals.com/products/concentrates-rso/bulk-cbg-isolate-thc-free</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/iso.cbg.20_cbg_20g.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/iso.cbg.20_cbg_20g.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">CBG (cannabigerol) is one of more than 100 non-intoxicating cannabinoids found in hemp plants. CBG, like CBD, offers similar benefits to the mind and body including immune support and relief of muscle soreness. CBG can brighten your mood, promote a healthy inflammation response and help address occasional nausea. This product does not contain any THC.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Concentrates</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">ISOBLK</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Bulk CBD Isolate</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/concentrates-rso/bulk-cbd-isolate-thc-free"><Data ss:Type="String">https://www.lazarusnaturals.com/products/concentrates-rso/bulk-cbd-isolate-thc-free</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isoblkl100_isolate_100g.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isoblkl100_isolate_100g.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our bulk CBD Isolate is THC-free. To keep tight control on our quality, we carefully extract and formulate all of our Bulk CBD Isolate in our own facilities. Our CBD isolate is a unique product that can be used in a variety of ways. While it is not water soluble, it can easily be dissolved into many different carrier oils. This is a great product for anyone who wants to make their own cooking oils or topicals.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Concentrates</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">ISOPETTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Flavorless Sensitive Pet CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/sensitive-pet-cbd-tincture-thc-free"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/sensitive-pet-cbd-tincture-thc-free</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isopettn60_pet_tincture_60ml_flavorless.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isopettn60_pet_tincture_60ml_flavorless.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Do more of what you love together with your pet with our brand new THC-Free Pet CBD Tincture. It is perfect for those furry friends that might be a bit more finicky in their tastes, like cats, rabbits or smaller breeds of dogs. This tincture is different from our Calming Pet Tincture, as it simply contains CBD isolate, as opposed to some of the other plant matter and terpenes that the Calming Pet Tincture contains.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">ISOSPK</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Sample Pack</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/thc-free-sample-pack"><Data ss:Type="String">https://www.lazarusnaturals.com/thc-free-sample-pack</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isospk_tincture_15ml_sample_pack.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/i/s/isospk_tincture_15ml_sample_pack.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Stress no more about choosing which flavor to buy. Suit any taste with our unique array of flavors of THC-Free tinctures. These products do not contain THC and are flavored with organic extracts and terpenes so you can feel good about feeling good.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Bundle</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">LOTPP</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Pacific Pine CBD Lotion</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/pacific-pine-cbd-lotion-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/pacific-pine-cbd-lotion-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotpp3_lotion_3_3oz_pacific_pine_.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotpp3_lotion_3_3oz_pacific_pine_.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Like a deep breath of crisp, clean, Pacific Northwest air filled with the refreshing scent of old growth forest. The Pacific Pine Lotion packs 50mg of Full Spectrum Hemp Extract per 1 teaspoon. Use it as part of your daily routine or after your latest outdoor adventure. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">LOTRS</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Portland Rose CBD Lotion </Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/portland-rose-cbd-lotion-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/portland-rose-cbd-lotion-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotrs3_lotion_3_3oz_portland_rose.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotrs3_lotion_3_3oz_portland_rose.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">We are very proud to be based in the ‘Rose City’ --Portland, OR. The roses in Portland, much like its residents, thrive in the rainy weather because it helps them grow. With this fresh rose aroma combined with the benefits of Full Spectrum CBD, you’ll swear you were walking through the famed Portland Rose Garden. Packed with organic ingredients and 50mg of CBD per 1 teaspoon, this product offers maximum impact with a rose scent. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">LOTUN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Unscented CBD Lotion</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/unscented-cbd-lotion-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/unscented-cbd-lotion-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotun3_lotion_3_3oz_uncented.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/l/o/lotun3_lotion_3_3oz_uncented.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Want a soothing lotion with no added scent, but all the benefits of Full Spectrum Hemp? Try our Unscented Full Spectrum CBD Lotion. Packed with organic ingredients and 50mg of CBD per 1 teaspoon, this product offers maximum impact with minimal fragrance.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">MSGOIL</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Unscented CBD Massage Oil</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/topicals/unscented-cbd-massage-oil-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/topicals/unscented-cbd-massage-oil-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/m/s/msgoil8_massage_oil_800mg.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/m/s/msgoil8_massage_oil_800mg.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our CBD Massage Oil is an effective product specifically designed for topical use that offers all the benefits of CBD, including promoting comfort and relaxation. To ensure a high-quality product, we carefully extract and formulate all of our massage oil in house. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Topical</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">PET-DIG.50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Pumpkin Digestion CBD Dog Treats 50ct</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/pumpkin-digestion-cbd-dog-treats-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/pumpkin-digestion-cbd-dog-treats-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-dig.50_dog_treats_11_9oz_pumpkin.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-dig.50_dog_treats_11_9oz_pumpkin.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">You know first-hand what it’s like to care for your best friend. Especially when they eat something that disagrees with them. Our Calm + Digestion dog treats are made with Full Spectrum CBD, organic pumpkin, all-natural probiotics, DHA and EPA Omega-3 fatty acids, and curcuminoids to support your furry friend’s digestion and your peace of mind.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">PET-JNT.50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Salmon Mobility CBD Dog Treats 50ct</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/salmon-mobility-cbd-dog-treats-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/salmon-mobility-cbd-dog-treats-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-jnt.50_dog_treats_11_9oz_salmon.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-jnt.50_dog_treats_11_9oz_salmon.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Whether your dog loves to run and play fetch or hides under the table during fireworks, you can help your furry friend enjoy life to its fullest. Our Calm + Mobility dog treats are made with Full Spectrum CBD, organic pumpkin, green-lipped mussels, glucosamine, curcuminoids, Omega-3 fatty acids from fish collagen and wild Alaskan salmon oil and 5 mg of CBD in every delicious treat to keep your good buddy happy and on the move.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">PET-VIT.50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Sweet Potato Vitality CBD Dog Treats 50ct</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/sweet-potato-vitality-cbd-dog-treats-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/sweet-potato-vitality-cbd-dog-treats-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-vit.50_dog_treats_11_9oz_sweet_potato.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pet-vit.50_dog_treats_11_9oz_sweet_potato.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">For your four-legged friend who loves to get up and go, but also needs to relax and unwind during car rides. Our Calm + Vitality dog treats are made with Full Spectrum CBD, organic sweet potato, Reishi, Lion’s Mane mushrooms and curcumin for inflammation and joint support.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">PETTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Classic Calming Pet CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/forpets/calming-pet-cbd-tincture-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/forpets/calming-pet-cbd-tincture-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pettn60_pet_tincture_60ml_classic.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/p/e/pettn60_pet_tincture_60ml_classic.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Your pets can now enjoy the same benefits of a full spectrum CBD oil that you do. CBD is a naturally occurring molecule that works in the endocannabinoid system of an animal to help support normal health, among other benefits. The amount of CBD in this product is lower than our standard tinctures to better accommodate the specific needs of your pet. We carefully formulate our CBD Pet Tincture in our facility through a vertically integrated process that delivers high-quality products.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Pet</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">RLX25</Data>
+    </Cell>
+    <Cell ss:StyleID="S34"><Data ss:Type="String">Relaxation 25mg CBD Capsules</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/capsules/relaxation-cbd-capsules-thcfree-25mg"><Data ss:Type="String">https://www.lazarusnaturals.com/products/capsules/relaxation-cbd-capsules-thcfree-25mg</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/r/l/rlx25.40_capsules_40ct_1000mg_relaxation.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/r/l/rlx25.40_capsules_40ct_1000mg_relaxation.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Infused with organic brown rice flour and our high-quality CBD isolate, our Relaxation Formula 25mg CBD Capsules are crafted with ingredients proven to promote restful sleep and relaxation such as chamomile, ashwagandha extract, and L-Tryptophan. This is an excellent product for customers who use CBD to help promote relaxation and comfort. To ensure a high-quality product, we carefully extract and formulate all of our CBD capsules in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Capsules &amp; Softgels</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="30">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">RSO</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">RSO</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/concentrates-rso/rso-cbd-oil-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/concentrates-rso/rso-cbd-oil-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/r/s/rso_cbd_oil_50ml.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/r/s/rso_cbd_oil_50ml.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our CBD RSO, colloquially known as Rick Simpson Oil, is a great option for those who want the ability to easily control serving sizes. It can be taken sublingually, mixed into food or used to make your own edibles. To keep tight control on our quality, we carefully extract and formulate all of our CBD RSO in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Concentrates</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="31">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">SG25</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">25mg CBD Softgels</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/capsules/cbd-softgels-full-spectrum-25mg"><Data ss:Type="String">https://www.lazarusnaturals.com/products/capsules/cbd-softgels-full-spectrum-25mg</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/g/sg2540l_capsule_40ct_web.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/g/sg2540l_capsule_40ct_web.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our softgels are an easy and precise way to take CBD. Made with 25 mg of our whole plant, full spectrum CBD oil plus Flaxseed oil,  d-Limonene, Myrcene, naturally derived β-Caryophyllene Softgels are easier to swallow and a convenient way to enjoy the benefits of CBD. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Capsules &amp; Softgels</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="32">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">SG50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">50mg CBD Softgels</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/capsules/cbd-softgels-full-spectrum-50mg"><Data ss:Type="String">https://www.lazarusnaturals.com/products/capsules/cbd-softgels-full-spectrum-50mg</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/g/sg5040l_capsule_40ct_web_1.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/g/sg5040l_capsule_40ct_web_1.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our softgels are an easy and precise way to take CBD. Made with 50 mg of our whole plant, full spectrum CBD oil plus Flaxseed oil,  d-Limonene, Myrcene, naturally derived β-Caryophyllene Softgels are easier to swallow and a convenient way to enjoy the benefits of CBD. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Capsules &amp; Softgels</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="33">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">SPTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Classic Standard Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/classic-cbd-tincture-full-spectrum-standard-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/classic-cbd-tincture-full-spectrum-standard-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/p/sptn60_tincture_60ml_classic.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/s/p/sptn60_tincture_60ml_classic.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">For those who are new to using CBD or who benefit the most from traditional serving sizes, our Standard Potency Tincture is an excellent option. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.CBG.ISO50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Flavorless CBG Isolate Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/cbg-isolate-tincture-thc-free-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/cbg-isolate-tincture-thc-free-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.cbg.iso50.60_tincture_60ml_flavorless.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.cbg.iso50.60_tincture_60ml_flavorless.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">CBG (cannabigerol) is one of more than100 non-intoxicating cannabinoids found in hemp plants. CBG, like CBD, offers similar benefits to the mind and body including immune support and relief of muscle soreness. CBG can brighten your mood, promote a healthy inflammation response and help address occasional nausea.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="35">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.CBGCBD.FS50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Classic 1:1 CBG:CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/cbg-cbd-tincture-full-spectrum"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/cbg-cbd-tincture-full-spectrum</Data>
+    </Cell>
+    <Cell ss:StyleID="S33" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.cbgcbd.fs50.60_tincture_60ml_classic.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.cbgcbd.fs50.60_tincture_60ml_classic.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Our full spectrum CBG is closest to how it exists in nature. When taken in combination with our full spectrum CBD it offers synergistic qualities that allow these cannabinoids to arguably work better together than when they are alone, creating what is known as the entourage effect.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="36">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.FS.SC50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Birthday Cake High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/birthday-cake-cbd-tincture-full-spectrum-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/birthday-cake-cbd-tincture-full-spectrum-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn_fs_sc50_60l_aa.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn_fs_sc50_60l_aa.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Every day's a celebration thanks to our latest offering! Our full spectrum, high-potency Birthday Cake tincture features warm notes of vanilla, cinnamon, and spice to elevate your daily routine and maximize comfort throughout the winter season. This is a limited time offering, so be sure to grab a slice while you can!</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="37">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.FS.YZ20</Data>
+    </Cell>
+    <Cell ss:StyleID="S34"><Data ss:Type="String">Yuzu Standard Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-tincture-full-spectrum-standard-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-tincture-full-spectrum-standard-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.fs.yz20.60_tincture_60ml_yuzu.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.fs.yz20.60_tincture_60ml_yuzu.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Enjoy Japanese citrus fruit Yuzu, blending tart lime and floral notes of orange in a whole-plant, standard-potency CBD tincture. If you’re new to CBD, or you benefit the most from traditional serving sizes and want to try a flavored tincture, our Yuzu Standard Potency Full Spectrum Tincture comes from the Japanese citrus best known for its tart lime flavor and floral notes of orange. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house. In order to maintain purity and quality, our flavored tinctures are made using all-natural ingredients that are flavored naturally with extracts and terpenes. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="38">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.FS.YZ50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Yuzu High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-tincture-full-spectrum-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-tincture-full-spectrum-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.fs.yz50.60_tincture_60ml_yuzu.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.fs.yz50.60_tincture_60ml_yuzu.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Yuzu’s Japanese citrus flavor blends tart lime and floral notes of orange with a Full Spectrum CBD tincture. Our Yuzu High Potency Full Spectrum Tincture combines naturally derived flavors with our high-quality hemp extract, providing all the benefits of a full spectrum CBD oil with a refreshing taste. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="39">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">TN.ISO.YZ50</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Yuzu High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-isolate-tincture-thc-free-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/yuzu-cbd-isolate-tincture-thc-free-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.iso.yz50.60_tincture_60ml_yuzu.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/t/n/tn.iso.yz50.60_tincture_60ml_yuzu.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Yuzu’s Japanese citrus flavor blends tart lime and floral notes of orange in our newest high-potency, THC-free CBD tincture. Yuzu Isolate CBD Tincture is clear and doesn’t have the hempy flavor often associated with full spectrum tinctures. If you’re looking to avoid THC with a higher concentration of CBD, an isolate is a great option. </Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="40">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">WMTN</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">THC-Free Wintermint High Potency CBD Tincture</Data>
+    </Cell>
+    <Cell ss:StyleID="S30" ss:HRef="https://www.lazarusnaturals.com/products/tinctures/wintermint-cbd-isolate-tincture-thc-free-high-potency"><Data ss:Type="String">https://www.lazarusnaturals.com/products/tinctures/wintermint-cbd-isolate-tincture-thc-free-high-potency</Data>
+    </Cell>
+    <Cell ss:StyleID="S27" ss:HRef="https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/w/m/wmtn60_tincture_60ml_wintermint.jpg"><Data ss:Type="String">https://www.lazarusnaturals.com/pub/media/catalog/product/cache/1b0a05e5fdccefedc3a493b72d935b92/w/m/wmtn60_tincture_60ml_wintermint.jpg</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">Infused with mint terpenes and our high-quality CBD isolate, our Wintermint High Potency Tincture is an effective CBD oil with a high concentration of CBD and a refreshing mint taste. To ensure a high-quality product, we carefully extract and formulate all of our CBD tinctures in house.</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">Tincture</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="41">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="42">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="43">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S28" />
+   </Row>
+   <Row ss:Index="44">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S28" />
+   </Row>
+   <Row ss:Index="45">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="46">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="47">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S28" />
+   </Row>
+   <Row ss:Index="48">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="49">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="50">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="51">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="52">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="53">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="54">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="55">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+   </Row>
+   <Row ss:Index="56">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="57">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="58">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="59">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="60">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="61">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="62">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="63">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="64">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="65">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="66">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="67">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="68">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="69">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="70">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="71">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+   <Row ss:Index="72">
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S35" />
+    <Cell ss:StyleID="S36" />
+    <Cell ss:Index="5" ss:StyleID="S37" />
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <FreezePanes />
+   <FrozenNoSplit />
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1</RangeSelection>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+     <RangeSelection>R2C1</RangeSelection>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R1C2</RangeSelection>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R2C2</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
